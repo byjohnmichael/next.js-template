@@ -1,0 +1,10 @@
+# Root Directories: Build Output, Next.js files
+/build
+/.next
+
+# Directories: Node Packages
+node_modules/
+# Hidden Files
+
+package-lock.json
+# By John Michael

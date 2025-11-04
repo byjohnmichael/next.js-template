@@ -1,0 +1,16 @@
+# Root Directories: Build Output, Next.js files
+/build
+/.next
+
+# Directories: Node Packages
+node_modules/
+
+# Files: Next.js Declaration Files
+next-env.d.ts
+
+# Hidden Files: Mac OS System Files
+.DS_Store
+
+# Wild Card Hidden Files: Environment Variables
+.env*
+# By John Michael
