@@ -45,6 +45,10 @@ A Next.js template to jumpstart projects made By John Michael
     ```bash
     npm run build
     ```
+8. Start
+   ```bash
+   npm run start
+   ```
 
 ---
 
