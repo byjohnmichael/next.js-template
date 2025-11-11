@@ -13,4 +13,5 @@ next-env.d.ts
 
 # Wild Card Hidden Files: Environment Variables
 .env*
+
 # By John Michael
